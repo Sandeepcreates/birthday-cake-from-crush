@@ -77,13 +77,13 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> Maya",
   "...",
-  "> today is your birthday",
+  "> Happy Birthday Darling",
   "...",
-  "> so i made you this computer program",
+  ">Today is your birthday so I made you this my love I hope you will like it ",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "❤️٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶❤️"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
