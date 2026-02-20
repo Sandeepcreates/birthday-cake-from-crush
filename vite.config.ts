@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/birthday-cake-from-crush/',
 })
